@@ -1,0 +1,15 @@
+streamlit
+watchdog
+pandas
+sentence-transformers
+numpy
+groq
+psycopg2-binary
+sqlalchemy
+nest_asyncio
+llama_index
+tabulate
+llama-parse
+IPython
+spacy
+google-generativeai
